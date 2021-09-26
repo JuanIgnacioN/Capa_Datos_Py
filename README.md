@@ -3,7 +3,7 @@
 Permite crear, listar, modificar y eliminar tareas a través de una terminal en python.
 Estas tareas persisten en una BDD postgreSQL.
 
-# Instalar Psycop2 para conectarse a PostgreSQL
+# Instalar Psycopg2 para conectarse a PostgreSQL
 
 $ pip install psycopg2
 
